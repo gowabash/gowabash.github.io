@@ -25,6 +25,7 @@
     * Lots of tables
     * Every new asset type requires new table / ddl change
     * Requires either lots of models or some fancy meta-programming
+    * Lucas's gut thinks this is going to be a problem
 * **Maleable Table**
   * Single table with generic headings
   * Fields - asset_id, asset_type, data1, data2, data3, data4, data5
